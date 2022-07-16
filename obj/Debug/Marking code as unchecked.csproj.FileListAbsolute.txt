@@ -1,0 +1,8 @@
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\bin\Debug\Marking code as unchecked.exe.config
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\bin\Debug\Marking code as unchecked.exe
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\bin\Debug\Marking code as unchecked.pdb
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\obj\Debug\Marking code as unchecked.csproj.AssemblyReference.cache
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\obj\Debug\Marking code as unchecked.csproj.SuggestedBindingRedirects.cache
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\obj\Debug\Marking code as unchecked.csproj.CoreCompileInputs.cache
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\obj\Debug\Marking code as unchecked.exe
+C:\Users\Afams\Source\Repos\Marking code as unchecked\Marking code as unchecked\obj\Debug\Marking code as unchecked.pdb
